@@ -3,6 +3,8 @@
 
 [![unityroom](https://raw.githubusercontent.com/guinpen98/guinpen98/main/Picture/unityroom.svg)](https://unityroom.com/users/wg4v329mc1lrdohjey8i)
 
+[![Speaker Deck](https://raw.githubusercontent.com/guinpen98/guinpen98/main/Picture/speakerdeck.svg)](https://speakerdeck.com/guinpen98)
+
 <!--
 **guinpen98/guinpen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
