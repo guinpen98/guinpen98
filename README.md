@@ -1,6 +1,4 @@
 # Links
-[![Portfolio](https://raw.githubusercontent.com/guinpen98/guinpen98/main/Picture/portfolio.svg)](https://guinpen98.github.io/VuePress/)
-
 [![unityroom](https://raw.githubusercontent.com/guinpen98/guinpen98/main/Picture/unityroom.svg)](https://unityroom.com/users/wg4v329mc1lrdohjey8i)
 
 [![Speaker Deck](https://raw.githubusercontent.com/guinpen98/guinpen98/main/Picture/speakerdeck.svg)](https://speakerdeck.com/guinpen98)
